@@ -1,7 +1,8 @@
-# readME for Weather app #
+# A simple weather app #
 
 Made with :love: on python
 
 Made with Tlinker
 
-> Search by city name and voila <
+
+> Search by city name and voila 
